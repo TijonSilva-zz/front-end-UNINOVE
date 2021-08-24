@@ -1,8 +1,8 @@
 const aluno01 = "Mayk"
-const notaaluno01 = 9.8
+const notaaluno01 = 2
 
 const aluno02 = "diego"
-const notaaluno02 = 10
+const notaaluno02 = 02
 
 const aluno03 = "miche"
 const notaaluno03 = 2
