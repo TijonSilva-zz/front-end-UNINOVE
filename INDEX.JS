@@ -1,19 +1,6 @@
-const aluno01 = "Mayk"
-const notaaluno01 = 2
-
-const aluno02 = "diego"
-const notaaluno02 = 02
-
-const aluno03 = "miche"
-const notaaluno03 = 2
-
-const media = (notaaluno01 + notaaluno02 + notaaluno03) / 3
-
-
-// se a media for maior que 5, parabenizar a turma
-if (media > 5) {
- console.log(`parabens seus Fdp, a media foi ${media}`)
- // faz alguma coisa
-} else {
- console.log('VAI ESTUDAR SEUS FDPPP')
-}
+var pre_pago;
+pre_pago = 0;
+pre_pago = 15;
+pre_pago = 15 - 1;
+document.write("pre_pago = ");//Saida de texto
+document.write(pre_pago);//Saida de variavel
