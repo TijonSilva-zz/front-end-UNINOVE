@@ -1,0 +1,17 @@
+#dv1{
+ border: 5px solid #00ff00;
+ text-align: center;
+}
+.cor1{
+ background-color: #000000;
+ background-color: blue;
+}
+.cor2{
+ color:#ffffff;
+}
+.cor3{
+ color: blue;
+}
+.color4 {
+ color: (255, 0, 0);
+}
