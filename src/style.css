@@ -15,9 +15,10 @@ h2{color:red;}
     border-right: 5px solid yellow;/* borda da direita*/
     border-bottom: 5px solid green;/* borda de baixo*/
     background-color: whitesmoke;
-    margin-bottom: 10px;
-    padding: 10px;
+    margin-bottom: 40px;
+    padding: 5px;
     text-align: center;
+    border-radius: 10px 510x 10px 10px;
     width: 50%;
     color:blue;
 }
