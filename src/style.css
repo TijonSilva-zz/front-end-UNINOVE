@@ -1,17 +1,23 @@
-#dv1{
- border: 5px solid #00ff00;
- text-align: center;
+h2{color:red;}
+#lor{
+    background-color: black;
+    color:white;
 }
 .cor1{
- background-color: #000000;
- background-color: blue;
+    color:gray;
 }
 .cor2{
- color:#ffffff;
+    color:tomato;
 }
-.cor3{
- color: blue;
-}
-.color4 {
- color: (255, 0, 0);
+.jr{
+    border-left: 5px solid blue;/* borda da esquerda */
+    border-top: 5px solid red;/* borda do topo(cima) */
+    border-right: 5px solid yellow;/* borda da direita*/
+    border-bottom: 5px solid green;/* borda de baixo*/
+    background-color: whitesmoke;
+    margin-bottom: 10px;
+    padding: 10px;
+    text-align: left;
+    width: 50%;
+    color:blue;
 }
